@@ -18,7 +18,9 @@ Primeiro, atualize a lista de pacotes do seu sistema para garantir que você est
 
 ```bash
 sudo apt-get update
+```
 2. Instalar Dependências Essenciais
+```bash
 sudo apt-get install build-essential cmake xorg-dev libgl1-mesa-dev libglu1-mesa-dev
 ```
 3. Instalar Dependências Específicas do Allegro 5 
